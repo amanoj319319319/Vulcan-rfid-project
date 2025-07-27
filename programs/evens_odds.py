@@ -7,4 +7,5 @@ for i in values:
     else:
         odd_nums.append(i)
 print(f"{even_nums} are evens")
-print(f"{odd_nums} are odds")
+print(f"{odd_nums} are odds"):
+print(f"program is finished succesfully")

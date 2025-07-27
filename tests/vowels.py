@@ -8,3 +8,4 @@ for i in name:
         cons.append(i)
 print(f"{vowels} are vowels")
 print(f"{cons} are cons")
+print("program is ended")
