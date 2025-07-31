@@ -9,4 +9,5 @@ def vowels_cons(name):
             cons_1.append(i)
 print(f"vowels are:", vowels_1)
 print(f"cons_are:", cons_1)
-print"i am second line")
+print("i am second line")
+print("i am third line")
